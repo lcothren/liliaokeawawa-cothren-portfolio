@@ -34,10 +34,6 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-- icon: download
-  icon_pack: fas
-  name: Download PDF
-  url_pdf: uploads/ArXiv_LC_OJCS_MLwC.pdf
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
