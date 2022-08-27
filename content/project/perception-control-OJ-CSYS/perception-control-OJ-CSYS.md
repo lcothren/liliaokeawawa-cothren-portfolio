@@ -17,7 +17,7 @@ tags:
 date: "2021-12-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://proceedings.mlr.press/v168/"
+# external_link: "https://proceedings.mlr.press/v168/"
 
 image:
   caption: Simulations for perception-based control of robotics.
