@@ -5,8 +5,8 @@ Subjects:	Optimization and Control (math.OC); Systems and Control (eess.SY)
 Cite as:	arXiv:2205.09574 [math.OC]
  	(or arXiv:2205.09574v2 [math.OC] for this version)
  
-https://doi.org/10.48550/arXiv.2205.09574
-Focus to learn more
+# https://doi.org/10.48550/arXiv.2205.09574
+# Focus to learn more
 
 tags:
 - Optimization
