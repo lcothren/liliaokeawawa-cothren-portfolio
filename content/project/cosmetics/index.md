@@ -4,5 +4,8 @@ summary: Write about your project here...
 tags:
   - NLP
 date: 2022-01-01
-external_link: http://github.com
+# external_link: http://github.com
+image:
+  caption: Simulations for perception-based control of robotics.
+  focal_point: Smart
 ---
