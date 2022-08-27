@@ -30,10 +30,10 @@ content:
       tag: '*'
     - name: Optimization
       tag: Optimization
-    - name: Gradient Methods
-      tag: Gradient methods
+    - name: Regulation
+      tag: Regulation
     - name: Perception-Based Control
-      tag: Perception-based control
+      tag: Perception-Based Control
 
 design:
   columns: '1'
