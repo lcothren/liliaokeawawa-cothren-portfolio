@@ -16,7 +16,7 @@ tags:
 - Gradient Methods
 - Neural Networks
 - Regulation
-- Perception-based control
+- Perception-Based Control
 date: "2021-01-01"
 
 # Optional external URL for project (replaces project detail page).
