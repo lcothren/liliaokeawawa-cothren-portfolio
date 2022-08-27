@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Optimization
+      tag: Optimization
+    - name: Gradient Methods
+      tag: Gradient methods
+    - name: Perception-Based Control
+      tag: Perception-based control
 
 design:
   columns: '1'
