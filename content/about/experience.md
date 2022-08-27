@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: University of Colorado, Boulder
     company_url: ''
-    company_logo: org-cubuff
+    # company_logo: org-cubuff
     location: Boulder, Colorado
     date_start: '2021-05-01'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Practicum Student
     company: University of Colorado, Boulder
     company_url: ''
-    company_logo: org-cubuff
+    # company_logo: org-cubuff
     location: Boulder, Colorado
     date_start: '2022-01-01'
     date_end: '2022-01-05'
@@ -51,7 +51,7 @@ experience:
   - title: Lead Mathematics Tutor
     company: Arizona State University
     company_url: ''
-    company_logo: org-asu_logo
+    # company_logo: org-asu_logo
     location: Tempe, Arizona
     date_start: '2019-08-01'
     date_end: '2021-04-15'
@@ -68,7 +68,7 @@ experience:
   - title: Undergraduate Teaching Assistant
     company: Arizona State University
     company_url: ''
-    company_logo: org-asu_logo
+    # company_logo: org-asu_logo
     location: Tempe, Arizona
     date_start: '2018-08-01'
     date_end: '2020-04-15'
@@ -83,7 +83,7 @@ experience:
   - title: Industrial Engineering Intern
     company: United Parcel Service (UPS)
     company_url: ''
-    company_logo: org-ups 
+    # company_logo: org-ups 
     location: Phoenix, Arizona
     date_start: '2019-05-01'
     date_end: '2019-08-15'
