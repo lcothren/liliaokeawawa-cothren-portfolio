@@ -26,7 +26,7 @@ experience:
   - title: BS Mathematics, with Honors
     company: Arizona State University
     company_url: ''
-    company_logo: org-x 
+    company_logo: org-asu_logo
     location: Tempe, Arizona, U.S.A.
     date_start: '2017-01-08'
     date_end: '2021-01-05'
