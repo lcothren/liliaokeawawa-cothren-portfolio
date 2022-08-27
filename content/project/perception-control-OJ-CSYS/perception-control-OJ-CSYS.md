@@ -13,8 +13,8 @@ Cite as:	arXiv:2205.09574 [math.OC]
 
 tags:
 - Optimization
-- Gradient methods
-- Neural networks
+- Gradient Methods
+- Neural Networks
 - Regulation
 - Perception-based control
 date: "2021-12-03T00:00:00Z"
