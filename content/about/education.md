@@ -21,11 +21,12 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#   old company_logo: org-x
 experience:
   - title: BS Mathematics, with Honors
     company: Arizona State University
     company_url: ''
-    company_logo: diploma # org-x
+    company_logo: fa-diploma 
     location: Tempe, Arizona, U.S.A.
     date_start: '2017-01-08'
     date_end: '2021-01-05'
