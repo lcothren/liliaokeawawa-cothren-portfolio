@@ -11,5 +11,5 @@ main:
     url: about/
     weight: 20
   - name: Research
-    url: projects/
+    url: research/
     weight: 30
