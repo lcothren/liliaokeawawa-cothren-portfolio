@@ -37,4 +37,4 @@ design:
   columns: '1'
 ---
 
-Check out my recent publications below!
+<!-- Check out my recent publications below! -->
