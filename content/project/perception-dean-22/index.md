@@ -23,10 +23,6 @@ links:
   icon_pack: ai
   name: ArXiv
   url: [https://arxiv.org/abs/2211.10020]
-<!-- - icon: fa-memo-circle-check
-  icon_pack: fa
-  name: Proceedings of Machine Learning Research
-  url: https://proceedings.mlr.press/v168/ -->
 url_code: ""
 url_pdf: ""
 url_slides: ""
