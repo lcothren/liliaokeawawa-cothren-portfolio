@@ -8,5 +8,5 @@ Journal Articles
 [1J] Cothren, L., Bianchin, G. &amp; Dall’Anese, E.. (2022). Data-Enabled Gradient Flow as Feedback Controller: Regulation of Linear Dynamical Systems to Minimizers of Unknown Functions. <i>Proceedings of The 4th Annual Learning for Dynamics and Control Conference</i>, in <i>Proceedings of Machine Learning Research</i> 168:234-247 Available from https://proceedings.mlr.press/v168/cothren22a.html.
 
 Conference Papers
-[1C] Cothren, L., Bianchin, G. &amp; Dall’Anese, E.. (2022). Data-Enabled Gradient Flow as Feedback Controller: Regulation of Linear Dynamical Systems to Minimizers of Unknown Functions. <i>Proceedings of The 4th Annual Learning for Dynamics and Control Conference</i>, in <i>Proceedings of Machine Learning Research</i> 168:234-247 Available from https://proceedings.mlr.press/v168/cothren22a.html. -->
+[1C] Cothren, L., Bianchin, G. &amp; Dall’Anese, E.. (2022). Data-Enabled Gradient Flow as Feedback Controller: Regulation of Linear Dynamical Systems to Minimizers of Unknown Functions. <i>Proceedings of The 4th Annual Learning for Dynamics and Control Conference</i>, in <i>Proceedings of Machine Learning Research</i> 168:234-247 Available from https://proceedings.mlr.press/v168/cothren22a.html.
 ---
