@@ -22,7 +22,7 @@ links:
 - icon: ai-arxiv
   icon_pack: ai
   name: ArXiv
-  url: [https://arxiv.org/abs/2211.10020]
+  url: https://arxiv.org/abs/2211.10020
 url_code: ""
 url_pdf: ""
 url_slides: ""
