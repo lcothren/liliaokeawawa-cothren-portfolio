@@ -2,7 +2,6 @@
 widget: pages
 headless: true  # This file represents a page section.
 
-# ... Put Your Section Options Here (title etc.) ...
 title: Publications
 
 header: Pre-prints
@@ -12,12 +11,5 @@ header: Pre-prints
 header: Journal Articles
   caption: [1J] Cothren, L., Bianchin, G. &amp; Dall’Anese, E.. (2022). Data-Enabled Gradient Flow as Feedback Controller: Regulation of Linear Dynamical Systems to Minimizers of Unknown Functions. <i>Proceedings of The 4th Annual Learning for Dynamics and Control Conference</i>, in <i>Proceedings of Machine Learning Research</i> 168:234-247 Available from https://proceedings.mlr.press/v168/cothren22a.html.
 
-
-
 header: Conference Papers
   caption: [1C] Cothren, L., Bianchin, G. &amp; Dall’Anese, E.. (2022). Data-Enabled Gradient Flow as Feedback Controller: Regulation of Linear Dynamical Systems to Minimizers of Unknown Functions. <i>Proceedings of The 4th Annual Learning for Dynamics and Control Conference</i>, in <i>Proceedings of Machine Learning Research</i> 168:234-247 Available from https://proceedings.mlr.press/v168/cothren22a.html.
-
-
-
-# Position of this section on the page
-weight: 1
