@@ -1,8 +1,15 @@
 ---
+# Use the basic pages widget of the Blog template
 widget: pages
-headless: true  # This file represents a page section.
+
+# This file represents a page section.
+headless: true
+
+# Order that this section will appear in.
+weight: 1
 
 title: Publications
+subtitle: ''
 
 weight: 1
 
