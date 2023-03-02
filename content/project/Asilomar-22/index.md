@@ -21,7 +21,7 @@ links:
 - icon: ai-arxiv
   icon_pack: ai
   name: Conference Proceedings
-  url: [https://www.asilomarsscconf.org/PastConferences.html]
+  url: https://www.asilomarsscconf.org/PastConferences.html
 url_code: ""
 url_pdf: ""
 url_slides: ""
