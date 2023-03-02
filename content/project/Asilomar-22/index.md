@@ -8,7 +8,6 @@ tags:
 - Learning-Based Control
 - Gradient Flow
 - Regulation
-- Perception-Based Control
 date: "2021-12-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
