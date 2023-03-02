@@ -35,13 +35,13 @@ experience:
         * Tackle problems within data-driven control and concurrent learning via theoretical and algorithmic development,
         * Verify theoretical findings with numerical simulations in MATLAB or Python.
         
-  - title: Practicum Student
+  - title: Graduate Learning Assistant
     company: University of Colorado, Boulder
     company_url: ''
     company_logo: org-cubuff
     location: Boulder, Colorado
     date_start: '2022-01-01'
-    date_end: '2022-05-05'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
