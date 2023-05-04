@@ -65,6 +65,6 @@ social:
 #email: ""
 ---
 
-Lily is a Ph.D. student in the Department of Electrical, Computer, and Energy Engineering at the University of Colorado, Boulder under the supervision of Professor Emiliano Dall’Anese. She received her Bachelor of Science in Mathematics with Honors in May 2021 from Arizona State University. Her research interests include control theory, online optimization, and learning algorithms.
+Lily is a Ph.D. student in the Department of Electrical, Computer, and Energy Engineering at the University of Colorado, Boulder under the supervision of Professor Emiliano Dall’Anese, funded by the NSF GRFP. She received her Bachelor of Science in Mathematics with Honors in May 2021 from Arizona State University. Her research interests include control theory, online optimization, and learning algorithms.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
