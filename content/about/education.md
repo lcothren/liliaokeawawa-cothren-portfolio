@@ -32,6 +32,13 @@ experience:
     date_end: '2021-01-05'
     description: |2-
         * Honors thesis on optimal foraging theory
+  - title: MS Electrical Engineering
+    company: University of Colorado Boulder
+    company_logo: org-cubuff
+    location: Boulder, Colorado, U.S.A.
+    date_start: '2021-05-01'
+    date_end: '2023-05-01'
+    description: ''
 
 design:
   columns: '1'
