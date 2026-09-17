@@ -24,12 +24,59 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: ""
+  date_end: ""
+  date_start: "2026-01-01"
+  description: ""
+  organization: Dynamics Days Conference 2026
+  organization_url: ""
+  title: Dynamics Days 2026 **Best Poster Award** 
+- certificate_url: ""
+  date_end: ""
+  date_start: "2026-01-01"
+  description: ""
+  organization: Dynamics Days Conference 2026
+  organization_url: ""
+  title: Dynamics Days 2026 Travel Grant 
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2025-11-01"
+  description: ""
+  organization: AIP Chaos
+  organization_url: ""
+  title: **Editor's Pick**  
+  url: ""
+- certificate_url: ""
   date_end: "2021-09-06"
   date_start: "2021-09-06"
   description: ""
   organization: 42nd International Summer School of Automatic Control of Grenoble, France
   organization_url: http://www.gipsa-lab.fr/summerschool/auto2021/program.html
   title: Certificate of Attendance
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2025-01-01"
+  description: ""
+  organization: National Science Foundation
+  organization_url: ""
+  title: NSF ACCESS Allocations -- Explore Level 
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2023-08-01"
+  description: ""
+  organization: National Science Foundation
+  organization_url: ""
+  title: **National Science Foundation Graduate Research Fellowship** 
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2021-01-01"
+  description: "2022-01-01"
+  organization: College of Engineering and Applied Sciences at the University of Colorado, Boulder
+  organization_url: ""
+  title: Department of Electrical Engineering Travel Grant
   url: ""
 - certificate_url: ""
   date_end: ""
