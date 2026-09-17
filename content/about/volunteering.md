@@ -113,7 +113,7 @@ item:
     url: ""
 
   - certificate_url: ""
-    date_end: "1"
+    date_end: ""
     date_start: "2018-06-01"
     description: ""
     organization: "Engineering Projects in Community Service at Arizona State University"
