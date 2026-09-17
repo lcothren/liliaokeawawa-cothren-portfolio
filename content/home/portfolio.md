@@ -28,12 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Optimization
-      tag: Optimization
+    - name: Catastrophes
+      tag: Catastrophes
     - name: Regulation
       tag: Regulation
-    - name: Perception-Based Control
-      tag: Perception-Based Control
+
 
 design:
   columns: '1'
