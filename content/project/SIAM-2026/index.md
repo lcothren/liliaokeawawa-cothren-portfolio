@@ -4,9 +4,9 @@ summary: In this paper, we provide a novel contraction-theoretic approach to ana
 # {{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/arXivPaperL4DC.pdf" "newtab" >}}arXiv eprint{{< /staticref >}}.
 # This is an extended version of the paper accepted for publication to the 4th Annual Learning for Dynamics and Control Conference containing proofs.
 tags:
-- Linear Stability Analysis
+- Regulation
 - Complex Systems Theory
-- Catastrophe Theory
+- Optimization
 date: "2026-03-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
