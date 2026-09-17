@@ -5,8 +5,9 @@ summary: This visit to Professor Katharina Krischer's group was invigorating and
 # {{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/arXivPaperL4DC.pdf" "newtab" >}}arXiv eprint{{< /staticref >}}.
 # This is an extended version of the paper accepted for publication to the 4th Annual Learning for Dynamics and Control Conference containing proofs.
 tags:
-- Optimization
+- Complex Systems Theory
 - Catastrophes
+- Optimization
 date: "2026-05-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
