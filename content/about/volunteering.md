@@ -27,7 +27,7 @@ item:
     date_end: "2025-12-01"
     date_start: "2024-08-09"
     description: ""
-    organization: Boulder Public Library
+    organization: "Boulder Public Library"
     organization_url: ""
     title: "Tutor for High School Equivalency Test Preparation Classes"
 
@@ -35,7 +35,7 @@ item:
     date_end: "2024-05-01"
     date_start: "2022-01-01"
     description: ""
-    organization: Graduate School Peer Mentoring Program at University of Colorado Boulder
+    organization: "Graduate School Peer Mentoring Program at University of Colorado Boulder"
     organization_url: ""
     title: "Graduate Peer Mentor"
     url: ""
@@ -44,7 +44,7 @@ item:
     date_end: "2023-01-01"
     date_start: "2021-01-01"
     description: ""
-    organization: The University of Colorado Boulder
+    organization: "The University of Colorado Boulder"
     organization_url: ""
     title: "Fellow of Dean's Future Leadership Fellowship"
     url: ""
@@ -53,25 +53,25 @@ item:
     date_end: "2021"
     date_start: "2019-01-06"
     description: ""
-    organization: Association for Women in Mathematics at Arizona State University
+    organization: "Association for Women in Mathematics at Arizona State University"
     organization_url: ""
-    title: Member
+    title: "Member"
     url: ""
 
   - certificate_url: ""
     date_end: ""
     date_start: "2025-05-01"
     description: ""
-    organization: SIAM Conference on Applications of Dynamical Systems
+    organization: "SIAM Conference on Applications of Dynamical Systems"
     organization_url: ""
-    title: Attendee
+    title: "Attendee"
     url: ""
 
   - certificate_url: ""
     date_end: ""
     date_start: "2022-10-07"
     description: ""
-    organization: American Heart Association STEM Goes Red Mentor
+    organization: "American Heart Association STEM Goes Red Mentor"
     organization_url: ""
     title: "Mentor"
     url: ""
@@ -80,7 +80,7 @@ item:
     date_end: "2022-01-01"
     date_start: "2018-01-01"
     description: ""
-    organization: Centennial High School STEM Panel
+    organization: "Centennial High School STEM Panel"
     organization_url: ""
     title: "Panelist"
     url: ""
@@ -89,7 +89,7 @@ item:
     date_end: "2020-01-01"
     date_start: "2018-01-01"
     description: ""
-    organization: Fulton Ambassadors at Arizona State University
+    organization: "Fulton Ambassadors at Arizona State University"
     organization_url: ""
     title: "Member"
     url: ""
@@ -98,7 +98,7 @@ item:
     date_end: "2020-01-01"
     date_start: "2019-01-01"
     description: ""
-    organization: Society for Women Engineers at Arizona State University
+    organization: "Society for Women Engineers at Arizona State University"
     organization_url: ""
     title: "Member"
     url: ""
@@ -107,7 +107,7 @@ item:
     date_end: "2019-06-01"
     date_start: "2018-06-01"
     description: ""
-    organization: Engineering Summer Camp C2 at Arizona State University
+    organization: "Engineering Summer Camp C2 at Arizona State University"
     organization_url: ""
     title: "Counselor"
     url: ""
@@ -116,7 +116,7 @@ item:
     date_end: "1"
     date_start: "2018-06-01"
     description: ""
-    organization: Engineering Projects in Community Service at Arizona State University
+    organization: "Engineering Projects in Community Service at Arizona State University"
     organization_url: ""
     title: "Member"
     url: ""
