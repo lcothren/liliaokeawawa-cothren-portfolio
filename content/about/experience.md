@@ -146,10 +146,6 @@ experience:
         * Discussions with managers and plant and industrial engineers, 
         * Draft accurate and updated building layout and plot plans for 90 facilities.
 
-design:
-  columns: '1'
----        * Responsible for scripting and delivering regular review sessions, exam review sessions, hosting office hours, and writing/grading homework and exams.
-
   - title: Math Instructor at the MATH LAB
     company: Front Range Community College
     company_url: ''
