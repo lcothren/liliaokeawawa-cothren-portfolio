@@ -6,7 +6,7 @@ summary: Catastrophes are present across many disciplines, ranging from the exti
 tags:
 - Linear Stability Analysis
 - Complex Systems Theory
-- Catastrophe Theory
+- Catastrophes
 date: "2025-11-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
