@@ -50,7 +50,7 @@ item:
     url: ""
 
   - certificate_url: ""
-    date_end: "2021"
+    date_end: "2023-01-01"
     date_start: "2019-01-06"
     description: ""
     organization: "Association for Women in Mathematics at Arizona State University"
