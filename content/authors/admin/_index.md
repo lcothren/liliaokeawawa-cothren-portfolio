@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include control theory, online optimization, and learning algorithms.
+bio: My research interests include control theory, catastrophe theory, and nonlinear dynamics.
 
 #interests:
 #- Artificial Intelligence
