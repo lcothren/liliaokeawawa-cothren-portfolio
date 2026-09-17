@@ -13,7 +13,7 @@ date: "2026-05-18T00:00:00Z"
 external_link: ""
 
 image:
-  caption: An example of a locus plot for unidirectionally coupled catastrophes obtained via AUTO.  
+  caption: Some favorite memories from my trip.  
   focal_point: Smart
 
 links:
