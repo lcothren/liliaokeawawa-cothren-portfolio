@@ -30,6 +30,8 @@ content:
       tag: '*'
     - name: Catastrophes
       tag: Catastrophes
+    - name: Complex Systems Theory
+      tag: Complex Systems Theory
     - name: Regulation
       tag: Regulation
 
