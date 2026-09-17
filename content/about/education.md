@@ -23,6 +23,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 #   old company_logo: org-x, but want to use fa-diploma
 experience:
+  - title: PhD Electrical Engineering
+    company: University of Colorado Boulder
+    company_logo: org-cubuff
+    location: Boulder, Colorado, U.S.A.
+    date_start: '2021-05-01'
+    date_end: ''
+    description: ''
+  - title: MS Electrical Engineering
+    company: University of Colorado Boulder
+    company_logo: org-cubuff
+    location: Boulder, Colorado, U.S.A.
+    date_start: '2021-05-01'
+    date_end: '2023-05-01'
+    description: ''
   - title: BS Mathematics, with Honors
     company: Arizona State University
     company_url: ''
@@ -32,13 +46,6 @@ experience:
     date_end: '2021-01-05'
     description: |2-
         * Honors thesis on optimal foraging theory
-  - title: MS Electrical Engineering
-    company: University of Colorado Boulder
-    company_logo: org-cubuff
-    location: Boulder, Colorado, U.S.A.
-    date_start: '2021-05-01'
-    date_end: '2023-05-01'
-    description: ''
 
 design:
   columns: '1'
