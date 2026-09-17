@@ -67,4 +67,4 @@ social:
 
 Lily is a Ph.D. student in the Department of Electrical, Computer, and Energy Engineering at the University of Colorado, Boulder under the supervision of Professor Liz Bradley and Professor Raissa D'Souza, funded by the NSF GRFP. She received her Bachelor of Science in Mathematics with Honors in May 2021 from Arizona State University. Her research interests include control theory, catastrophe theory, and nonlinear dynamics.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my CV as a PDF.
