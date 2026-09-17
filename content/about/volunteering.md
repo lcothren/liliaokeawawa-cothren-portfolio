@@ -120,6 +120,7 @@ item:
     organization_url: ""
     title: "Member"
     url: ""
+    
 design:
   columns: '1'
 ---
