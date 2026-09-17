@@ -24,8 +24,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: ""
-    date_end: "2026-06-09"
-    date_start: "2026-07-01"
+    date_end: "2026-07-01"
+    date_start: "2026-06-09"
     description: ""
     organization: Santa Fe Institute
     organization_url: ""
@@ -37,7 +37,7 @@ item:
     description: ""
     organization: Center for Teaching and Learning at University of Colorado Boulder
     organization_url: ""
-    title: "**Microcredential** Critical Dialogic Pedagogy, DEI-Informed Dialogic Pedagogy"
+    title: "Critical Dialogic Pedagogy, DEI-Informed Dialogic Pedagogy **Microcredential**"
     url: ""
 
   - certificate_url: ""
@@ -73,7 +73,7 @@ item:
     description: ""
     organization: Office of Information Technology at University of Colorado Boulder
     organization_url: ""
-    title: "**Microcredential** Foundations in High-Performance Computing"
+    title: "Foundations in High-Performance Computing **Microcredential**"
     url: ""
 
   - certificate_url: ""
@@ -83,15 +83,6 @@ item:
     organization: The Graduate School at University of Colorado Boulder
     organization_url: ""
     title: "Graduate Peer Mentoring **Badge**"
-    url: ""
-
-  - certificate_url: ""
-    date_end: ""
-    date_start: "2021-08-01"
-    description: ""
-    organization: College of Engineering and Applied Sciences at the University of Colorado, Boulder
-    organization_url: ""
-    title: Excellence Fellowship
     url: ""
 design:
   columns: '1'
